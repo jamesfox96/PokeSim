@@ -1,4 +1,6 @@
-# created by virtualenv automatically
+# PYCHARM
 *.iml
-venv/
 .idea
+
+# VENV
+venv/
