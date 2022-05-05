@@ -4,6 +4,3 @@
 
 # VENV
 venv/
-
-# JUPYTER
-.ipynb*
