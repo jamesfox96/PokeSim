@@ -1,6 +1,6 @@
 
 def start_sim():
-    print("test1")
+    print("test")
 
 
 if __name__ == '__main__':
