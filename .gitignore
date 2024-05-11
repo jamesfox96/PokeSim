@@ -1,6 +1,6 @@
 # PYCHARM
 *.iml
 .idea
-
+.DS_store
 # VENV
 venv/
